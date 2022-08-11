@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name Mahinder keeda</b></label>
+    <label for="Name"><b>Enter Name Mahinder keeda Hai or RAHEGA!!!</b></label>
     <input type="text" placeholder="Enter Full Name hahah" name="Name" id="Name" required>
     <br>
     
